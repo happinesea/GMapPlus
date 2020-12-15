@@ -38,6 +38,17 @@ captures/
 
 # IntelliJ
 *.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml
@@ -58,6 +69,8 @@ captures/
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
 .cxx/
+.cxx
+local.properties
 
 # Google Services (e.g. APIs or Firebase)
 # google-services.json
